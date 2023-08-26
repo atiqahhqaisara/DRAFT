@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+ <head><title>Mail sender</title></head>
+ <body>
+ <form action="mail.php" method="POST">
+ <b>Email</b><br>
+<input type="mail" name="email">
+ <p><b>Subject</b><br>
+<input type="text" name="subject" size=40>
+<p><b>Message</b><br>
+ <textarea cols=40 rows=10 name="message"></textarea>
+<p><input type="submit" value=" Send ">
+</form>
+ </body>
+</html>
