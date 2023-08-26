@@ -9,7 +9,7 @@
 <html>
 
 <?php
- echo '<title>Mat Car Rental</title>';
+ echo '<title>Ati Car Rental</title>';
  echo '<body>';
   echo '<div style="text-align:center">'; 
  echo '<img src="image/headerbanner.jpg" alt="Mountain View" style="width:80%;height:228px;">';
